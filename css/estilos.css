@@ -1,0 +1,50 @@
+body {
+	margin: 0 auto;
+	text-align: center;background-color: #d6d6d6;
+}
+.container {
+	border: 1.5px solid black;
+	padding: 1.5em 3em 3em 3em;
+	width: 650px;
+	margin: 0 auto;
+	border-radius: 3px;
+	background-color: #FFF;
+}
+
+.result {
+	border: 1px solid black;
+	width: 50%;
+	margin: 3em auto;
+}
+.title-gestor {
+	width: 25%;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	margin: 1em auto;
+}
+.tabla-tareas {
+	margin-top: 2em;
+}
+
+.tabla-tareas {
+	width: 550px;
+}
+table tr td {
+	padding: .5em;
+
+}
+
+.cat {
+	font-size: 11px;
+	padding: 3px;
+	background-color: #BDEEFF;
+	border: 1px solid black;
+	margin-left: 4px;
+}
+
+.table-header {
+	background-color: #31719E;
+	color: #FFF;
+	font-weight: bold;
+	font-style: italic;
+}
